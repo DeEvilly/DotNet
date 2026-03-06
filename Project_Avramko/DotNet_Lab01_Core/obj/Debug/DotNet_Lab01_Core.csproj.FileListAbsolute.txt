@@ -1,6 +1,0 @@
-D:\Git Repositories\DotNet\Project_Avramko\DotNet_Lab01_Core\bin\Debug\DotNet_Lab01_Core.dll
-D:\Git Repositories\DotNet\Project_Avramko\DotNet_Lab01_Core\bin\Debug\DotNet_Lab01_Core.pdb
-D:\Git Repositories\DotNet\Project_Avramko\DotNet_Lab01_Core\obj\Debug\DotNet_Lab01_Core.csproj.AssemblyReference.cache
-D:\Git Repositories\DotNet\Project_Avramko\DotNet_Lab01_Core\obj\Debug\DotNet_Lab01_Core.csproj.CoreCompileInputs.cache
-D:\Git Repositories\DotNet\Project_Avramko\DotNet_Lab01_Core\obj\Debug\DotNet_Lab01_Core.dll
-D:\Git Repositories\DotNet\Project_Avramko\DotNet_Lab01_Core\obj\Debug\DotNet_Lab01_Core.pdb
