@@ -8,7 +8,6 @@ namespace DotNet_Lab01_Core
 {
     public class SysInfo
     {
-        // Print the current operating system version
         public static void PrintCurrentOSVer()
         {
             Console.WriteLine($"Current OS version: {System.Environment.OSVersion}");
